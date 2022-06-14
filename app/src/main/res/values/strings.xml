@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MAD_tute_05_data_handling</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="name">Name</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="select_all">Select All</string>
+    <string name="add">ADD</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="delete">DELETE</string>
+    <string name="update">UPDATE</string>
+</resources>
